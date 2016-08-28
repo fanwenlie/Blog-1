@@ -60,8 +60,6 @@
 
 ## 缺点
 
-与 `Native` 的对比
-
 ### 固有缺点
 
 + 无法做到 `Write once, Run anywhere`
